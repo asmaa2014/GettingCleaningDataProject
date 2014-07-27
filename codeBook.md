@@ -2,7 +2,6 @@ Mydata.txt code book
 
 Human Activity Recognition Using Smartphones
 
-
 Subject     1
     subject of the measurement
     1..30
