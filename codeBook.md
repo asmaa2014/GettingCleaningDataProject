@@ -141,25 +141,84 @@ TimeBodyGyroJerk-std-Z  32
     Standard deviation of body jerk mesurement from gyroscope in time domain, Z axial
     
 TimeBodyAccMag-mean     33
+
+    Mean of magnitude of body mesurement from accelerometer in time domain
+    
 TimeBodyAccMag-std      34
+
+    Standard deviation of magnitude of body mesurement from accelerometer in time domain
+    
 TimeGravityAccMag-mean  35
+
+    Mean of magnitude of gravity mesurement from accelerometer in time domain
+    
 TimeGravityAccMag-std   36
+
+    Standard deviation of magnitude of gravity mesurement from accelerometer in time domain
+    
 TimeBodyAccJerkMag-mean 37
+
+    Mean of magnitude of body jerk mesurement from accelerometer in time domain
+    
 TimeBodyAccJerkMag-std  38
+
+    Standard deviation of magnitude of body jerk mesurement from accelerometer in time domain
+    
 TimeBodyGyroMag-mean    39
+
+    Mean of magnitude of body mesurement from gyroscope in time domain
+    
 TimeBodyGyroMag-std     40
+
+    Standard deviation of magnitude of body mesurement from gyroscope in time domain
+    
 TimeBodyGyroJerkMag-mean    41
+
+    Mean of magnitude of body jerk mesurement from gyroscope in time domain
+    
 TimeBodyGyroJerkMag-std     42
+
+    Standard deviation of magnitude of body jerk mesurement from gyroscope in time domain
+    
 FreqBodyAcc-mean-X      43
+
+    Mean of body mesurement from accelerometer in frequency domain, X axial
+    
 FreqBodyAcc-mean-Y      44
+
+    Mean of body mesurement from accelerometer in frequency domain, Y axial
+    
 FreqBodyAcc-mean-Z      45
+
+    Mean of body mesurement from accelerometer in frequency domain, Z axial
+    
 FreqBodyAcc-std-X       46
+
+    Standard deviation of body mesurement from accelerometer in frequency domain, X axial
+    
 FreqBodyAcc-std-Y       47
+
+    Standard deviation of body mesurement from accelerometer in frequency domain, Y axial
+    
 FreqBodyAcc-std-Z       48
+
+    Standard deviation of body mesurement from accelerometer in frequency domain, Z axial
+    
 FreqBodyAcc-meanFreq-X  49
+
+    Mean of body mesurement of frequency means from accelerometer in frequency domain, X axial
+    
 FreqBodyAcc-meanFreq-Y  50
+
+    Mean of body mesurement of frequency means from accelerometer in frequency domain, Y axial
+    
 FreqBodyAcc-meanFreq-Z  51
+
+    Mean of body mesurement of frequency means from accelerometer in frequency domain, Z axial
+    
 FreqBodyAccJerk-mean-X  52
+
+    
 FreqBodyAccJerk-mean-Y  53
 FreqBodyAccJerk-mean-Z  54
 FreqBodyAccJerk-std-X   55
