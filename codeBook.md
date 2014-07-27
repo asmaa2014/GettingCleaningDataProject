@@ -3,11 +3,16 @@ Mydata.txt code book
 Human Activity Recognition Using Smartphones
 
 Subject     1
+
     subject of the measurement
+    
     1..30
     
+    
 Activity    2
+
     subject's activity
+    
     WALKING
     WALKING_UPSTAIRS
     WALKING_DOWNSTAIRS
@@ -22,7 +27,9 @@ TimeBodyAcc-mean-Y  4
 TimeBodyAcc-mean-Z  5
 
 TimeBodyAcc-std-X   6
+
 TimeBodyAcc-std-Y   7
+
 TimeBodyAcc-std-Z   8
 TimeGravityAcc-mean-X   9
 TimeGravityAcc-mean-Y   10
