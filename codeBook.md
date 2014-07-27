@@ -22,39 +22,124 @@ Activity    2
     
 TimeBodyAcc-mean-X  3
 
+    Mean of body mesurement from accelerometer in time domain, X axial
+    
 TimeBodyAcc-mean-Y  4
 
+    Mean of body mesurement from accelerometer in time domain, Y axial
+    
 TimeBodyAcc-mean-Z  5
+
+    Mean of body mesurement from accelerometer in time domain, Z axial
 
 TimeBodyAcc-std-X   6
 
+    Standard deviation of body mesurement from accelerometer in time domain, X axial
+
 TimeBodyAcc-std-Y   7
 
+    Standard deviation of body mesurement from accelerometer in time domain, Y axial
+
 TimeBodyAcc-std-Z   8
+
+    Standard deviation of body mesurement from accelerometer in time domain, Z axial
+    
 TimeGravityAcc-mean-X   9
+
+    Mean of gravity mesurement from accelerometer in time domain, X axial
+    
 TimeGravityAcc-mean-Y   10
+
+    Mean of gravity mesurement from accelerometer in time domain, Y axial
+    
 TimeGravityAcc-mean-Z   11
+
+    Mean of gravity mesurement from accelerometer in time domain, Z axial
+    
 TimeGravityAcc-std-X    12
+
+    Standard deviation of gravity mesurement from accelerometer in time domain, X axial
+    
 TimeGravityAcc-std-Y    13
+
+    Standard deviation of gravity mesurement from accelerometer in time domain, Y axial
+    
 TimeGravityAcc-std-Z    14
+
+    Standard deviation of gravity mesurement from accelerometer in time domain, Z axial
+    
 TimeBodyAccJerk-mean-X  15
+
+    Mean of body jerk mesurement from accelerometer in time domain, X axial
+    
 TimeBodyAccJerk-mean-Y  16
+
+    Mean of body jerk mesurement from accelerometer in time domain, Y axial
+    
 TimeBodyAccJerk-mean-Z  17
+
+    Mean of body jerk mesurement from accelerometer in time domain, Z axial
+    
 TimeBodyAccJerk-std-X   18
+
+    Standard deviation of body jerk mesurement from accelerometer in time domain, X axial
+    
 TimeBodyAccJerk-std-Y   19
+
+    Standard deviation of body jerk mesurement from accelerometer in time domain, Y axial
+    
 TimeBodyAccJerk-std-Z   20
+
+    Standard deviation of body jerk mesurement from accelerometer in time domain, Z axial
+    
 TimeBodyGyro-mean-X     21
+
+    Mean of body mesurement from gyroscope in time domain, X axial
+    
 TimeBodyGyro-mean-Y     22
+
+    Mean of body mesurement from gyroscope in time domain, Y axial
+    
 TimeBodyGyro-mean-Z     23
+
+    Mean of body mesurement from gyroscope in time domain, Z axial
+    
 TimeBodyGyro-std-X      24
+
+    Standard deviation of body mesurement from gyroscope in time domain, X axial
+    
 TimeBodyGyro-std-Y      25
+
+    Standard deviation of body mesurement from gyroscope in time domain, X axial
+    
 TimeBodyGyro-std-Z      26
+
+    Standard deviation of body mesurement from gyroscope in time domain, Z axial
+    
 TimeBodyGyroJerk-mean-X 27
+
+    Mean of body jerk mesurement from gyroscope in time domain, X axial
+    
 TimeBodyGyroJerk-mean-Y 28
+
+    Mean of body jerk mesurement from gyroscope in time domain, Y axial
+    
 TimeBodyGyroJerk-mean-Z 29
+
+    Mean of body jerk mesurement from gyroscope in time domain, Z axial
+    
 TimeBodyGyroJerk-std-X  30
+
+    Standard deviation of body jerk mesurement from gyroscope in time domain, X axial
+    
 TimeBodyGyroJerk-std-Y  31
+
+    Standard deviation of body jerk mesurement from gyroscope in time domain, Y axial
+    
 TimeBodyGyroJerk-std-Z  32
+
+    Standard deviation of body jerk mesurement from gyroscope in time domain, Z axial
+    
 TimeBodyAccMag-mean     33
 TimeBodyAccMag-std      34
 TimeGravityAccMag-mean  35
