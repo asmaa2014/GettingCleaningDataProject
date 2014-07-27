@@ -16,8 +16,11 @@ Activity    2
     LAYING
     
 TimeBodyAcc-mean-X  3
+
 TimeBodyAcc-mean-Y  4
+
 TimeBodyAcc-mean-Z  5
+
 TimeBodyAcc-std-X   6
 TimeBodyAcc-std-Y   7
 TimeBodyAcc-std-Z   8
