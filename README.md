@@ -10,7 +10,7 @@ The steps performed in the script follows the required steps in the Getting and 
 
 The data has three parts: subject, activity, and measurements which could be found in a different files. There are two types of data, train and test which are saved separately.
 
-Following actions is performed:
+Following actions are performed in the run_analysis.R script found in the repository:
 
 - The data is read for each part and for each type in a separate R object
 - Train and test data are merged for each part
