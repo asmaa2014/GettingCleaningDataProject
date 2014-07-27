@@ -1,9 +1,12 @@
 Mydata.txt code book
+
 Human Activity Recognition Using Smartphones
+
 
 Subject     1
     subject of the measurement
     1..30
+    
 Activity    2
     subject's activity
     WALKING
@@ -12,6 +15,7 @@ Activity    2
     SITTING
     STANDING
     LAYING
+    
 TimeBodyAcc-mean-X  3
 TimeBodyAcc-mean-Y  4
 TimeBodyAcc-mean-Z  5
