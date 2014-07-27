@@ -66,10 +66,17 @@ colnames(subdata) = str
 # Step 5: Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 ###########################
 
+#Mereg subject, activity, and data columns into one data frame
 mergedata = cbind(subject, activitylabel, subdata)
+
+#Summerize the data according to Subject & Activity columns by mean
 finaldata = aggregate(mergedata[, 3:81], list(mdata$Subject, mdata$Activity), mean)
+
+#Name subjct & Activity columns
 colnames(finaldata)[1] = "Subject"
 colnames(finaldata)[2] = "Activity"
+
+#write the final data into a text file
 write.table(finaldata, file = "MyData.txt", sep=",")
 
 
