@@ -206,45 +206,133 @@ FreqBodyAcc-std-Z       48
     
 FreqBodyAcc-meanFreq-X  49
 
-    Mean of body mesurement of frequency means from accelerometer in frequency domain, X axial
+    Mean frequency of body mesurement from accelerometer in frequency domain, X axial
     
 FreqBodyAcc-meanFreq-Y  50
 
-    Mean of body mesurement of frequency means from accelerometer in frequency domain, Y axial
+    Mean frequency of body mesurement from accelerometer in frequency domain, Y axial
     
 FreqBodyAcc-meanFreq-Z  51
 
-    Mean of body mesurement of frequency means from accelerometer in frequency domain, Z axial
+    Mean frequencyof body mesurement from accelerometer in frequency domain, Z axial
     
 FreqBodyAccJerk-mean-X  52
 
+    Mean of body jerk mesurement from accelerometer in frequency domain, X axial
     
 FreqBodyAccJerk-mean-Y  53
+
+    Mean of body jerk mesurement from accelerometer in frequency domain, Y axial
+    
 FreqBodyAccJerk-mean-Z  54
+
+    Mean of body jerk mesurement from accelerometer in frequency domain, Z axial
+    
 FreqBodyAccJerk-std-X   55
+
+    Standard deviation of body jerk mesurement from accelerometer in frequency domain, X axial
+    
 FreqBodyAccJerk-std-Y   56
+
+    Standard deviation of body jerk mesurement from accelerometer in frequency domain, Y axial 
+    
 FreqBodyAccJerk-std-Z   57
+
+    Standard deviation of body jerk mesurement from accelerometer in frequency domain, Z axial
+    
 FreqBodyAccJerk-meanFreq-X  58
+
+     Mean frequency of body jerk mesurement from accelerometer in frequency domain, X axial
+     
 FreqBodyAccJerk-meanFreq-Y  59
+
+    Mean frequency of body jerk mesurement from accelerometer in frequency domain, Y axial
+    
 FreqBodyAccJerk-meanFreq-Z  60
+
+    Mean frequency of body jerk mesurement from accelerometer in frequency domain, Z axial
+    
 FreqBodyGyro-mean-X     61
+
+    Mean of body mesurement from gyroscope in frequency domain, X axial
+    
 FreqBodyGyro-mean-Y     62
+
+    Mean of body mesurement from gyroscope in frequency domain, Y axial
+    
 FreqBodyGyro-mean-Z     63
+
+    Mean of body mesurement from gyroscope in frequency domain, Z axial
+    
 FreqBodyGyro-std-X      64
+
+    Standard deviation of body mesurement from gyroscope in frequency domain, X axial
+    
 FreqBodyGyro-std-Y      65
+
+    Standard deviation of body mesurement from gyroscope in frequency domain, Y axial
+    
 FreqBodyGyro-std-Z      66
+
+    Standard deviation of body mesurement from gyroscope in frequency domain, Z axial
+    
 FreqBodyGyro-meanFreq-X 67
+
+    Mean frequency of body mesurement from gyroscope in frequency domain, X axial
+    
 FreqBodyGyro-meanFreq-Y 68
+
+    Mean frequency of body mesurement from gyroscope in frequency domain, Y axial
+    
 FreqBodyGyro-meanFreq-Z 69
+
+    Mean frequency of body mesurement from gyroscope in frequency domain, Z axial
+    
 FreqBodyAccMag-mean     70
+
+    Mean of magnitude of body mesurement from accelerometer in frequency domain
+    
 FreqBodyAccMag-std      71
+
+    Standard deviation of magnitude of body mesurement from accelerometer in frequency domain
+    
 FreqBodyAccMag-meanFreq 72
+
+    Mean frequency of magnitude of body mesurement from accelerometer in frequency domain
+    
 FreqBodyAccJerkMag-mean 73
+
+    Mean of magnitude of body jerk mesurement from accelerometer in frequency domain
+    
 FreqBodyAccJerkMag-std  74
+
+    Standard deviation of magnitude of body jerk mesurement from accelerometer in frequency domain
+    
 FreqBodyAccJerkMag-meanFreq 75
+
+    Mean frequency of magnitude of body jerk mesurement from accelerometer in frequency domain
+
 FreqBodyGyroMag-mean    76
+
+    Mean of magnitude of body mesurement from gyroscope in frequency domain
+    
 FreqBodyGyroMag-std     77
+
+    Standard deviation frequency of magnitude of body mesurement from gyroscope in frequency domain
+    
 FreqBodyGyroMag-meanFreq    78
+
+    Mean frequency of magnitude of body mesurement from gyroscope in frequency domain
+    
 FreqBodyGyroJerkMag-mean    79
+
+    Mean of magnitude of body jerk mesurement from gyroscope in frequency domain
+    
 FreqBodyGyroJerkMag-std 80
+
+    Standard deviation of magnitude of body jerk mesurement from gyroscope in frequency domain
+    
 FreqBodyGyroJerkMag-meanFreq    81   
+
+    Mean frequency of magnitude of body jerk mesurement from gyroscope in frequency domain
+    
